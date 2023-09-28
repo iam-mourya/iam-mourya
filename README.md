@@ -1,4 +1,7 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW9v15pNjPGSbcVBxbtJmkSK348gh-gd8OoDiN4Zty521kRvo2YrEq4UeGP8l-BfhP5CMAf2aI7HmQ6m9L4tTfqSRebqO3jHh_U1k_77oICww7k1GSVwxPd0ILmx2JdOQVvSNpW19uXz0ETK-jhxkz3CSZVPsBrw-nc8QlvdX-fbtUrzbVaP7isfQsQM4/w640-h194/github-header-image.png)]
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iam-mourya.iam-mourya" />
+
+
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW9v15pNjPGSbcVBxbtJmkSK348gh-gd8OoDiN4Zty521kRvo2YrEq4UeGP8l-BfhP5CMAf2aI7HmQ6m9L4tTfqSRebqO3jHh_U1k_77oICww7k1GSVwxPd0ILmx2JdOQVvSNpW19uXz0ETK-jhxkz3CSZVPsBrw-nc8QlvdX-fbtUrzbVaP7isfQsQM4/w640-h194/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Mourya</h1>
 
@@ -42,7 +45,14 @@ Happy coding and automating! 🚀
 <a href="/https://devopsswift.blogspot.com/feeds/posts/default" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://devopsswift.blogspot.com/feeds/posts/default" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<h2 align="center">Languages-Tools </h2>
+<br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ansible,aws,bash,docker,git,github,githubactions,gitlab,grafana,html,jenkins,kafka,kubernetes,linkedin" />
+    <img src="https://skillicons.dev/icons?i=linux,maven,mysql,nginx,powershell,vim,wordpress" />
+  </a>
+</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-mourya&show_icons=true&locale=en&layout=compact" alt="iam-mourya" /></p>
+
