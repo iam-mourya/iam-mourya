@@ -33,8 +33,6 @@ Happy coding and automating! 🚀
 
 - 📝 I regularly write articles on [https://devopsswift.blogspot.com/](https://devopsswift.blogspot.com/)
 
-- 💬 Ask me about **AWS,DevOps,Middleware**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
