@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iam-mourya.iam-mourya" />
 
-
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW9v15pNjPGSbcVBxbtJmkSK348gh-gd8OoDiN4Zty521kRvo2YrEq4UeGP8l-BfhP5CMAf2aI7HmQ6m9L4tTfqSRebqO3jHh_U1k_77oICww7k1GSVwxPd0ILmx2JdOQVvSNpW19uXz0ETK-jhxkz3CSZVPsBrw-nc8QlvdX-fbtUrzbVaP7isfQsQM4/w640-h194/github-header-image.png)
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW9v15pNjPGSbcVBxbtJmkSK348gh-gd8OoDiN4Zty521kRvo2YrEq4UeGP8l-BfhP5CMAf2aI7HmQ6m9L4tTfqSRebqO3jHh_U1k_77oICww7k1GSVwxPd0ILmx2JdOQVvSNpW19uXz0ETK-jhxkz3CSZVPsBrw-nc8QlvdX-fbtUrzbVaP7isfQsQM4/w640-h194/github-header-image.png" alt="MasterHead">
+</p>
 
 <h1 align="center">Hi 👋, I'm Mourya</h1>
 
@@ -50,6 +51,9 @@ Happy coding and automating! 🚀
   </a>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-mourya&show_icons=true&locale=en&layout=compact&theme=dark" alt="iam-mourya" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-mourya&show_icons=true&locale=en&layout=compact&theme=dark" alt="iam-mourya" />
+</p>
+
 
 
