@@ -30,7 +30,7 @@ DevOps, to me, is more than just a job; it's a passion. I believe that seamless 
 
 I'm always eager to learn and collaborate with like-minded individuals who share my enthusiasm for DevOps. Feel free to connect with me here on GitHub, and let's explore the world of DevOps together!
 
-📫 You can also reach out to me via email at [mourya.devops@hotmail.com](mailto:mourya.devops@hotmail.com).
+📫 You can also reach out to me via email at [mourya.devops@hotmail.com](mailto:sreemourya@hotmail.com).
 
 Happy coding and automating! 🚀
 
