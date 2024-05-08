@@ -35,7 +35,7 @@ I'm always eager to learn and collaborate with like-minded individuals who share
 Happy coding and automating! 🚀
 
 
-- 📝 I regularly write articles on [https://devopsswift.blogspot.com/](https://devopsswift.blogspot.com/)
+- 📝 I update important articles on devops at: [https://devopsswift.blogspot.com/](https://devopsswift.blogspot.com/)
 
 
 <p align="left">
