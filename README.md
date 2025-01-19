@@ -51,10 +51,15 @@ Happy coding and automating! 🚀
   </a>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iam-mourya/iam-mourya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iam-mourya/iam-mourya/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/iam-mourya/iam-mourya/output/github-snake.svg" />
+</picture>
+
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iam-mourya&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-mourya&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-mourya&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
-
