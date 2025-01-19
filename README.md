@@ -34,6 +34,13 @@ Happy coding and automating! 🚀
 
 - 📝 I update important articles on devops at: [https://devopsswift.blogspot.com/](https://devopsswift.blogspot.com/)
 
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-mourya&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-mourya&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-mourya&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
+
 
 <p align="left">
 <a href="/https://devopsswift.blogspot.com/feeds/posts/default" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://devopsswift.blogspot.com/feeds/posts/default" height="30" width="40" /></a>
