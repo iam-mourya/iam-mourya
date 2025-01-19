@@ -39,6 +39,9 @@ Happy coding and automating! 🚀
 <a href="/https://devopsswift.blogspot.com/feeds/posts/default" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://devopsswift.blogspot.com/feeds/posts/default" height="30" width="40" /></a>
 </p>
 
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h2 align="center">Languages-Tools </h2>
 <br>
 <div align="center">
