@@ -22,9 +22,6 @@ I'm a results-driven DevOps engineer with a strong background in automating, opt
 - 📉 Optimizing infrastructure for cost-efficiency and performance.
 - 🛡️ Promoting security best practices within DevOps workflows.
 
-### Why DevOps?
-
-DevOps, to me, is more than just a job; it's a passion. I believe that seamless collaboration between development and operations teams, coupled with automation and innovation, leads to faster, more reliable software delivery. My goal is to help teams and organizations embrace DevOps principles to achieve their full potential and deliver exceptional software experiences.
 
 ### Let's Connect
 
