@@ -14,7 +14,7 @@
 
 👋 I'm passionate about DevOps!
 
-I'm a results-driven DevOps engineer with a strong background in automating, optimizing, and streamlining software development and operations processes. Currently, I'm working as a DevOps engineer, where I bring my expertise to build and maintain robust CI/CD pipelines, manage infrastructure as code, and ensure high availability and scalability for mission-critical applications.
+I am focused on optimizing and streamlining software development and operations processes. I work with CI/CD pipelines, manage infrastructure, and aim to support high availability and scalability for mission-critical applications. My goal is to improve workflows, enhance system reliability, and contribute to seamless software delivery
 
 ### What I Love Doing
 
