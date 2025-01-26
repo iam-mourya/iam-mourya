@@ -6,15 +6,20 @@
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW9v15pNjPGSbcVBxbtJmkSK348gh-gd8OoDiN4Zty521kRvo2YrEq4UeGP8l-BfhP5CMAf2aI7HmQ6m9L4tTfqSRebqO3jHh_U1k_77oICww7k1GSVwxPd0ILmx2JdOQVvSNpW19uXz0ETK-jhxkz3CSZVPsBrw-nc8QlvdX-fbtUrzbVaP7isfQsQM4/w640-h194/github-header-image.png" alt="MasterHead">
 </p>
 
-<h1 align="center">Hi 👋, I'm Mourya 👨‍💻</h1>
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Mourya</h1>
+         
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ## About Me
 
-👋 I'm passionate about DevOps!
+I'm passionate about DevOps!
 
 I am focused on optimizing and streamlining software development and operations processes. I work with CI/CD pipelines, manage infrastructure, and aim to support high availability and scalability for mission-critical applications. My goal is to improve workflows, enhance system reliability, and contribute to seamless software delivery
+
+ <img align="right" src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" alt="A professional animation coder gif"/>
 
 ### What I Love Doing
 
